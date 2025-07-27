@@ -1,0 +1,2 @@
+# All dependencies are system tools, not Python packages
+# Python built-in modules only: os, sys, shutil, subprocess, pathlib
