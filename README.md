@@ -68,17 +68,6 @@ This will include only subdomains that end with x.target.com in the final scan l
 ---
 ## 📁 Output Structure
 
-├── subfinder.txt       # Results from subfinder
-├── assetfinder.txt     # Results from assetfinder
-├── crtsh.txt           # Results from crt.sh
-├── all_subs.txt        # Merged subdomain list
-├── alive.txt           # Hosts responding to HTTP requests
-├── alive-info.txt      # Detailed info from httpx
-├── 200.txt             # 2xx responses
-├── 300.txt             # 3xx responses
-├── 400.txt             # 4xx responses
-└── 500.txt             # 5xx responses
-
 | Structure | Description |
 | ---------- | ------------------ |
 | subfinder.txt | Results from subfinder |
